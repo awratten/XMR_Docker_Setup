@@ -21,4 +21,4 @@ apt-get update
 apt-get install docker-ce
 
 docker pull kannix/monero-miner
-docker run -t kannix/monero-miner -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u email@email.com -p x
+#docker run -t kannix/monero-miner -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u email@email.com -p x
